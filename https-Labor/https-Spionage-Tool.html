@@ -271,7 +271,7 @@ document.getElementById('sendBtn').addEventListener('click', ()=>{
     } else {
       dataEl.classList.add('cipher');
       dataEl.textContent = fakeEncrypt(`user=${user}&pass=${pass}`);
-      explainEl.textContent = 'Über HTTPS sind die Daten verschlüsselt, bevor sie das Gerät verlassen. Der Lauscher sieht nur Kauderwelsch – ohne den passenden Schlüssel nutzlos.';
+      explainEl.textContent = 'Über HTTPS werden deine Daten verschlüsselt, bevor sie das Gerät verlassen. Der Lauscher sieht nur Kryptosalat – ohne den passenden Schlüssel nutzlos.';
     }
     box.classList.add('show');
   }, 550);
