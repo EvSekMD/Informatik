@@ -1,1 +1,6 @@
-
+3 Stationen für die Word-Rallye in Klasse 6
+- - - 
+Links zu den 3 Files:
+https://raw.githubusercontent.com/EvSekMD/Informatik/main/Downloads/Word-Rallye/Word-Rallye.1.Tratschwellen.docx
+https://raw.githubusercontent.com/EvSekMD/Informatik/main/Downloads/Word-Rallye/Word-Rallye.2.Waffeln.docx
+https://raw.githubusercontent.com/EvSekMD/Informatik/main/Downloads/Word-Rallye/Word-Rallye.3.EVA.docx
